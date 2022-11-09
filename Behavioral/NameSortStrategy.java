@@ -1,4 +1,4 @@
-package behavioral;
+package Behavioral;
 
 import java.util.Comparator;
 import java.util.List;

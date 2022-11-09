@@ -1,4 +1,4 @@
-package behavioral;
+package Behavioral;
 
 // DO NOT MODIFY ANYTHING BELOW THIS LINE!!
 public class Person {
